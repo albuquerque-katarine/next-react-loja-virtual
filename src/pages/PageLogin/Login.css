@@ -1,0 +1,40 @@
+.section_login {
+    width: 95%;
+    height: auto;
+    margin: 0 auto;   
+}
+.div_login {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+.section_login h2 {
+    font-size: 4rem;
+    color: #660080;
+}
+.section_login label {
+    font-size: 1.4rem;
+}
+.section_login input {
+    height: 60px;
+    font-size: 1.4rem;
+    color: #660080;
+    border: 2px solid #AA00D4;
+    border-radius: 10px;
+    margin: 5px 0;
+    padding: 5px 10px;
+}
+.div_login button {
+    padding: 5px 10px;
+    font-size: 1.4rem;
+    border: 3px solid #AA00D4;
+    background-color: #AA00D4;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn_cancelar {
+    border: 3px solid #AA00D4;
+    background: none!important;
+    color: #660080!important;
+}

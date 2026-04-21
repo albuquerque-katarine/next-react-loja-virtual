@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+@import "tailwindcss";
+
+@import "../pages/components/Footer/Footer.css";
+@import "../pages/components/Header/Header.css";
+@import "../pages/PageLogin/Login.css";
+@import "../pages/PageProdutos/Produtos.css";
+
+
+* {
+  border: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: "Audiowide", sans-serif;
+}
+
+.page {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.main {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  background-color: #fff;
+}
+
+.main_titulo {
+  width: auto;
+  color: #660080;
+  font-size: 3rem;
+  margin: 0 3rem;
+}
+
+@media(max-width: 768px) {
+  .main_titulo {
+    font-size: 2.3rem;
+  }
+}
+
+@media(max-width: 576px) {
+  .main_titulo {
+    font-size: 1.8rem;
+  }
+}
+
+
+
+
+
+

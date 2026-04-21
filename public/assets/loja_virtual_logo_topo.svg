@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="71.614716mm"
+   height="18.178284mm"
+   viewBox="0 0 71.614716 18.178284"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(183.17168,-409.21793)">
+    <g
+       id="g19"
+       transform="translate(4.4108911,27.568069)">
+      <g
+         id="g8-2"
+         transform="matrix(0.73315427,0,0,0.73315427,-134.87809,144.9967)">
+        <text
+           xml:space="preserve"
+           style="font-size:6.31116px;line-height:1;font-family:Audiowide;-inkscape-font-specification:Audiowide;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff00ff;stroke-width:1.03003"
+           x="-52.064774"
+           y="327.52722"
+           id="text2-1"><tspan
+             id="tspan2-9"
+             style="fill:#ffffff;stroke-width:1.03003"
+             x="-52.064774"
+             y="327.52722">Loja Virtual</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:24.6245px;line-height:1;font-family:Audiowide;-inkscape-font-specification:Audiowide;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:4.0189"
+           x="-39.754154"
+           y="347.34183"
+           id="text5-8"><tspan
+             id="tspan5-2"
+             style="fill:#ffffff;stroke-width:4.0189"
+             x="-39.754154"
+             y="347.34183">Next</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9.28427px;line-height:1;font-family:Audiowide;-inkscape-font-specification:Audiowide;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:1.51526"
+           x="105.00793"
+           y="346.86554"
+           id="text6-3"
+           transform="skewX(-15.490599)"><tspan
+             id="tspan6-4"
+             style="fill:#ffffff;stroke-width:1.51526"
+             x="105.00793"
+             y="346.86554">React</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
