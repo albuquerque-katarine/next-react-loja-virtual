@@ -121,7 +121,7 @@ export default function Produtos() {
 
     return (
         <div className="page">
-            <Header qtdProdutos={dados.length > 0 ? dados.length : 0} usuario={getLetraNome(router.query?.nome)} logado={getLogado(router.query.logado)} imagem="/assets/loja_virtual_logo_topo.svg" bgImagem='/assets/loja_virtual_banner.svg' />
+            <Header qtdProdutos={dados.length > 0 ? dados.length : 0} usuario={getLetraNome(router.query?.nome)} logado={getLogado(router.query.logado)} imagem="./assets/loja_virtual_logo_topo.svg" bgImagem='./assets/loja_virtual_banner.svg' />
             <TagMain titulo="Produtos">
                 <section className="itens_produtos_row flex justify-start">
                     <section className="itens_produtos">
@@ -162,7 +162,7 @@ export default function Produtos() {
                     </section>
                 </section>
             </TagMain>
-            <Footer imagem="/assets/loja_virtual_logo_footer.svg" />
+            <Footer imagem="./assets/loja_virtual_logo_footer.svg" />
         </div>
     )
 }
