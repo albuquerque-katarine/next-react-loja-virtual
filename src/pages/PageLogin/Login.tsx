@@ -26,7 +26,7 @@ export default function Login() {
     
     return (
         <div className="page">
-            <Header imagem="./assets/loja_virtual_logo_topo.svg" bgImagem='./assets/loja_virtual_banner.svg'/>
+            <Header imagem="../assets/loja_virtual_logo_topo.svg" bgImagem='./assets/loja_virtual_banner.svg'/>
             <main className="main">                
                 <section className="section_login flex flex-col">
                     <h2>Login</h2>
@@ -44,7 +44,7 @@ export default function Login() {
                     <label>{mensagem !="" ? mensagem: ""}</label>
                 </section>
             </main>
-            <Footer imagem="./assets/loja_virtual_logo_footer.svg"/>
+            <Footer imagem="../assets/loja_virtual_logo_footer.svg"/>
         </div>
     )
 }
