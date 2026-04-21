@@ -3,7 +3,7 @@
 
 ![alt text](image.png)
 
-Acesse a aplicação: [Loja Virtual]()
+Acesse a aplicação: [Loja Virtual](https://albuquerque-katarine.github.io/next-react-loja-virtual)
 
 ## Objetivo
 
