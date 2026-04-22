@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useRouter } from 'next/navigation';
 import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
+import TagMain from "../components/TagMain/TagMain";
 
 export default function Login() {
 
@@ -27,9 +28,9 @@ export default function Login() {
     return (
         <div className="page">
             <Header imagem="../assets/loja_virtual_logo_topo.svg" bgImagem='../assets/loja_virtual_banner.svg'/>
-            <main className="main">                
+            <TagMain titulo="Login">
                 <section className="section_login flex flex-col">
-                    <h2>Login</h2>
+                    <br />
                     <br />
                     <label htmlFor="nome">Nome</label>
                     <input type="text" id="nome" value={nome} onChange={evt=> setNome(evt.target.value)} autoComplete="off"/>
@@ -43,7 +44,7 @@ export default function Login() {
                     <br />
                     <label>{mensagem !="" ? mensagem: ""}</label>
                 </section>
-            </main>
+            </TagMain>
             <Footer imagem="../assets/loja_virtual_logo_footer.svg"/>
         </div>
     )
